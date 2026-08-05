@@ -48,12 +48,13 @@
 
 //********************* * String Conversion/
 
-let someNum=null
+// let someNum=null
 
-let stringNumber= String(someNum)
+// let stringNumber= String(someNum)
 
-console.log(stringNumber)
-console.log(typeof(stringNumber))
+// console.log(stringNumber)
+// console.log(typeof(stringNumber))
+
 
 
 
