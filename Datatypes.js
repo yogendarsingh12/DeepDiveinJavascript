@@ -48,7 +48,7 @@
 
 //********************* * String Conversion/
 
-let someNum=45
+let someNum=null
 
 let stringNumber= String(someNum)
 
