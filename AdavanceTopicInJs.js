@@ -9,4 +9,6 @@
 //[8]ShallowCopy
 //[9]DeepCopy
 //[10]Prototypes
-//[11]ops Concepts in JavaScript
+//[11]Event Loop Working
+//[12]ops Concepts in JavaScript
+//[13]Promies in javascript
