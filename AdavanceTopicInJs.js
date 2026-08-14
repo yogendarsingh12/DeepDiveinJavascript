@@ -26,13 +26,12 @@
 // function Outer() {
 //   const name = "Yogendar Singh Rajawat";
 
-//   // Lowercase 'function'
+
 //   return function Inner() {
 //     console.log("Name is accessible in function:", name);
 //   };
 // }
 
-// // Uppercase 'O' to match the function definition
 // let result = Outer(); 
 
 // result(); // Logs: "Name is accessible in function: Yogendar Singh Rajawat"
